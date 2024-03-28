@@ -1,0 +1,6 @@
+{
+  "welcome": "Welcome to the {{target}} extension!",
+  "expeditedLimits": "Expedited orders cannot be shipped or delivered on weekends/holidays.",
+  "expeditedContact": "Please call us at 813-444-7021 for Saturday delivery.",
+  "internationlOrders": "**For international orders please contact us via Phone or Email."
+}
